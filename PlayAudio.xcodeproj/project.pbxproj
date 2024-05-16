@@ -13,6 +13,7 @@
 		AF19D3EB2BF63BFD000C1238 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = AF19D3EA2BF63BFD000C1238 /* Base */; };
 		AF19D3ED2BF63BFE000C1238 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AF19D3EC2BF63BFE000C1238 /* Assets.xcassets */; };
 		AF19D3F02BF63BFE000C1238 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = AF19D3EF2BF63BFE000C1238 /* Base */; };
+		AF19D3F82BF63F83000C1238 /* MeditationSong.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AF19D3F72BF63F83000C1238 /* MeditationSong.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		AF19D3EC2BF63BFE000C1238 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AF19D3EF2BF63BFE000C1238 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AF19D3F12BF63BFE000C1238 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AF19D3F72BF63F83000C1238 /* MeditationSong.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = MeditationSong.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				AF19D3E92BF63BFD000C1238 /* Main.storyboard */,
 				AF19D3EC2BF63BFE000C1238 /* Assets.xcassets */,
 				AF19D3EE2BF63BFE000C1238 /* LaunchScreen.storyboard */,
+				AF19D3F72BF63F83000C1238 /* MeditationSong.mp3 */,
 				AF19D3F12BF63BFE000C1238 /* Info.plist */,
 			);
 			path = PlayAudio;
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AF19D3F82BF63F83000C1238 /* MeditationSong.mp3 in Resources */,
 				AF19D3ED2BF63BFE000C1238 /* Assets.xcassets in Resources */,
 				AF19D3F02BF63BFE000C1238 /* Base in Resources */,
 				AF19D3EB2BF63BFD000C1238 /* Base in Resources */,
